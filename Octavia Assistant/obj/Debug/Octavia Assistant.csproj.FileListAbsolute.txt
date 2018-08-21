@@ -1,0 +1,120 @@
+c:\users\grant\source\repos\Octavia Assistant\Octavia Assistant\obj\Debug\Octavia Assistant.csprojAssemblyReference.cache
+c:\users\grant\source\repos\Octavia Assistant\Octavia Assistant\obj\Debug\Octavia_Assistant.Form1.resources
+c:\users\grant\source\repos\Octavia Assistant\Octavia Assistant\obj\Debug\Octavia_Assistant.Properties.Resources.resources
+c:\users\grant\source\repos\Octavia Assistant\Octavia Assistant\obj\Debug\Octavia Assistant.csproj.GenerateResource.cache
+c:\users\grant\source\repos\Octavia Assistant\Octavia Assistant\obj\Debug\Octavia Assistant.csproj.CoreCompileInputs.cache
+c:\users\grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Octavia Assistant.exe.config
+c:\users\grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Octavia Assistant.exe
+c:\users\grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Octavia Assistant.pdb
+c:\users\grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Newtonsoft.Json.dll
+c:\users\grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Newtonsoft.Json.xml
+c:\users\grant\source\repos\Octavia Assistant\Octavia Assistant\obj\Debug\Octavia Assistant.csproj.CopyComplete
+c:\users\grant\source\repos\Octavia Assistant\Octavia Assistant\obj\Debug\Octavia Assistant.exe
+c:\users\grant\source\repos\Octavia Assistant\Octavia Assistant\obj\Debug\Octavia Assistant.pdb
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Core.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Rest.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Rpc.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\NAudio.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.AppContext.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Console.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Interactive.Async.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.IO.Compression.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Net.Http.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Net.Sockets.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Commands.xml
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Core.xml
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Rest.xml
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Rpc.xml
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\NAudio.xml
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Grant\source\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Interactive.Async.xml
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Octavia Assistant.exe.config
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Octavia Assistant.exe
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Octavia Assistant.pdb
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Commands.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Core.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Rest.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Rpc.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Webhook.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.WebSocket.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\EncoderCore.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Expression.Encoder.Api2.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Expression.Encoder.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\NAudio.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Newtonsoft.Json.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.AppContext.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Collections.Immutable.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Console.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Globalization.Calendars.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Interactive.Async.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.IO.Compression.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.IO.FileSystem.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Net.Http.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Net.Sockets.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Xml.ReaderWriter.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Expression.Framework.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Expression.Extensibility.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Commands.xml
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Core.xml
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Rest.xml
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Rpc.xml
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.Webhook.xml
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Discord.Net.WebSocket.xml
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Expression.Encoder.xml
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\NAudio.xml
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Newtonsoft.Json.xml
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Collections.Immutable.xml
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\System.Interactive.Async.xml
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+E:\repos\Octavia Assistant\Octavia Assistant\bin\Debug\en\Microsoft.Expression.Encoder.resources.dll
+E:\repos\Octavia Assistant\Octavia Assistant\obj\Debug\Octavia Assistant.csprojAssemblyReference.cache
+E:\repos\Octavia Assistant\Octavia Assistant\obj\Debug\Octavia_Assistant.Form1.resources
+E:\repos\Octavia Assistant\Octavia Assistant\obj\Debug\Octavia_Assistant.Properties.Resources.resources
+E:\repos\Octavia Assistant\Octavia Assistant\obj\Debug\Octavia_Assistant.Spambot.resources
+E:\repos\Octavia Assistant\Octavia Assistant\obj\Debug\Octavia Assistant.csproj.GenerateResource.cache
+E:\repos\Octavia Assistant\Octavia Assistant\obj\Debug\Octavia Assistant.csproj.CoreCompileInputs.cache
+E:\repos\Octavia Assistant\Octavia Assistant\obj\Debug\Octavia Assistant.csproj.CopyComplete
+E:\repos\Octavia Assistant\Octavia Assistant\obj\Debug\Octavia Assistant.exe
+E:\repos\Octavia Assistant\Octavia Assistant\obj\Debug\Octavia Assistant.pdb
